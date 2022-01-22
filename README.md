@@ -27,3 +27,11 @@ Java ile gidilen mesafeye (KM) göre taksimetre tutarını ekrana yazdıran prog
 Taksimetre KM başına 2.20 TL tutmaktadır.
 Minimum ödenecek tutar 20 TL'dir. 20 TL altında ki ücretlerde yine 20 TL alınacaktır.
 Taksimetre açılış ücreti 10 TL'dir.
+
+💙 Practice5 → Dairenin Alanını ve Çevresini Hesaplayan Program
+Java ile yarı çapını kullanıcıdan aldığınız dairenin alanını ve çevresini hesaplayan programı yazın.
+
+Ödev
+Yarıçapı r, merkez açısının ölçüsü 𝛼 olan daire diliminin alanı bulan programı yazınız.
+
+𝜋 sayısını = 3.14 alınız.
