@@ -33,5 +33,10 @@ Java ile yarı çapını kullanıcıdan aldığınız dairenin alanını ve çev
 
 Ödev
 Yarıçapı r, merkez açısının ölçüsü 𝛼 olan daire diliminin alanı bulan programı yazınız.
-
 𝜋 sayısını = 3.14 alınız.
+
+🧡 Homework1 → Vücut Kitle İndeksi Hesaplama
+Java ile kullanıcıdan boy ve kilo değerlerini alıp bir değişkene atayın. Aşağıdaki formüle göre kullanıcının "Vücut Kitle İndeks" değerini hesaplayıp ekrana yazdırın.
+
+Formül
+Kilo (kg) / Boy(m) * Boy(m)
