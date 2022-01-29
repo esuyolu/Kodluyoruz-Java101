@@ -51,3 +51,5 @@ Elma : 3,67 TL
 Domates : 1,11 TL
 Muz: 0,95 TL
 Patlıcan : 5,00 TL
+
+🧡 Homework3 → Hesap Kakinesini Programı switch-case kullanarak yapınız.
