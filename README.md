@@ -53,3 +53,6 @@ Muz: 0,95 TL
 Patlıcan : 5,00 TL
 
 🧡 Homework3 → Hesap Kakinesini Programı switch-case kullanarak yapınız.
+
+🧡 Homework4 → Kullanıcı Girişi Programı 
+Eğer şifre yanlış ise kullanıcıya şifresini sıfırlayıp sıfırlamayacağını sorun, eğer kullanıcı sıfırlamak isterse yeni girdiği şifrenin hatalı girdiği ve unuttuğu şifre ile aynı olmaması gerektiğini kontrol edip , şifreler aynı ise ekrana "Şifre oluşturulamadı, lütfen başka şifre giriniz." sorun yoksa "Şifre oluşturuldu" yazan programı yazınız.
