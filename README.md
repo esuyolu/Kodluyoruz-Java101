@@ -56,3 +56,11 @@ Patlıcan : 5,00 TL
 
 🧡 Homework4 → Kullanıcı Girişi Programı 
 Eğer şifre yanlış ise kullanıcıya şifresini sıfırlayıp sıfırlamayacağını sorun, eğer kullanıcı sıfırlamak isterse yeni girdiği şifrenin hatalı girdiği ve unuttuğu şifre ile aynı olmaması gerektiğini kontrol edip , şifreler aynı ise ekrana "Şifre oluşturulamadı, lütfen başka şifre giriniz." sorun yoksa "Şifre oluşturuldu" yazan programı yazınız.
+
+🧡 Homework5 → Hava Sıcaklığına Göre Etkinlik Önerme 
+Koşullar :
+Sıcaklık 5'dan küçük ise "Kayak" yapmayı öner.
+Sıcaklık 5 ve 15 arasında ise "Sinema" etkinliğini öner.
+Sıcaklık 15 ve 25 arasında ise "Piknik" etkinliğini öner.
+Sıcaklık 25'ten büyük ise "Yüzme" etkinliğini öner.
+
