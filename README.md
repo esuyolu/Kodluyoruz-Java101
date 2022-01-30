@@ -91,3 +91,5 @@ Genel bir kural olarak, artık yıllar 4 rakamının katı olan yıllardır.100'
 
 🧡 Homework13 → Armstrong Sayı Nedir ?
 N haneli bir sayının basamaklarının n’inci üstlerinin toplamı, sayının kendisine eşitse, böyle sayılara Armstrong sayı denir.
+
+🧡 Homework14 → Java'da döngüler kullanarak yıldızlar ile elmas yapınız.
