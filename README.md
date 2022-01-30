@@ -88,3 +88,6 @@ Genel bir kural olarak, artık yıllar 4 rakamının katı olan yıllardır.100'
 🧡 Homework11 → Java döngüler ile girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekrana yazdıran programı yazıyoruz.
 
 🧡 Homework12 → Kombinasyon formülü: C(n,r) = n! / (r! * (n-r)!)
+
+🧡 Homework13 → Armstrong Sayı Nedir ?
+N haneli bir sayının basamaklarının n’inci üstlerinin toplamı, sayının kendisine eşitse, böyle sayılara Armstrong sayı denir.
