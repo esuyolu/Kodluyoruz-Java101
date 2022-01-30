@@ -86,3 +86,5 @@ Genel bir kural olarak, artık yıllar 4 rakamının katı olan yıllardır.100'
 🧡 Homework10 → Java döngüler ile tek bir sayı girilene kadar kullanıcıdan girişleri kabul eden ve girilen değerlerden çift ve 4'ün katları olan sayıları toplayıp ekrana basan programı yazıyoruz.
 
 🧡 Homework11 → Java döngüler ile girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekrana yazdıran programı yazıyoruz.
+
+🧡 Homework12 → Kombinasyon formülü: C(n,r) = n! / (r! * (n-r)!)
