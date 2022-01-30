@@ -105,3 +105,8 @@ Bir sayının kendisi hariç pozitif tam sayı çarpanları (kalansız bölen sa
 🧡 Homework18 → Java ile basamak sayısının kullanıcıdan alınan ve döngüler kullanılarak, yıldızlar(*) ile ekrana ters üçgen çizen programı yazın.
 
 🧡 Homework19 → Java ile 1 - 100 arasındaki asal sayıları ekrana yazdıran programı yazınız.
+
+🧡 Homework20 → Java döngüler ile fibonacci serisi bulan program yazıyoruz. Fibonacci serisinin eleman sayısını kullanıcıdan alın.
+Fibonacci Serisi Nedir ?
+Fibonacci serisi, her sayının kendinden önceki ile toplanması sonucu oluşan bir sayı dizisidir. Bu şekilde devam eden bu dizide sayılar birbirleriyle oranlandığında altın oran ortaya çıkar, yani bir sayı kendisinden önceki sayıya bölündüğünde altın orana gittikçe yaklaşan bir dizi elde edilir.
+Fibonacci dizisi, 0'dan başlar ve sonsuza kadar. Her rakam, bir önceki rakamla toplanır. Elde edilen sonuç rakamın sağ tarafına yazılır.
