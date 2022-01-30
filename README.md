@@ -78,3 +78,7 @@ Kişi "Yolculuk Tipini" gidiş dönüş seçmiş ise bilet fiyatı üzerinden %2
 🧡 Homework8 → Java ile kullanıcıdan doğum tarihini alıp Çin Zodyağı değerini hesaplayan program yazınız.
 Çin Zodyağı nasıl hesaplanır?
 Çin zodyağı hesaplanırken kişinin doğum yılının 12 ile bölümünde kalana göre bulunur.
+
+🧡 Homework9 → Artık Yıl Hesaplama
+Artık Yıl Nasıl Hesaplanır?
+Genel bir kural olarak, artık yıllar 4 rakamının katı olan yıllardır.100'ün katı olan yıllardan sadece 400'e kalansız olarak bölünebilenler artık yıldır.
