@@ -82,3 +82,5 @@ Kişi "Yolculuk Tipini" gidiş dönüş seçmiş ise bilet fiyatı üzerinden %2
 🧡 Homework9 → Artık Yıl Hesaplama
 Artık Yıl Nasıl Hesaplanır?
 Genel bir kural olarak, artık yıllar 4 rakamının katı olan yıllardır.100'ün katı olan yıllardan sadece 400'e kalansız olarak bölünebilenler artık yıldır.
+
+🧡 Homework10 → Java döngüler ile tek bir sayı girilene kadar kullanıcıdan girişleri kabul eden ve girilen değerlerden çift ve 4'ün katları olan sayıları toplayıp ekrana basan programı yazıyoruz.
