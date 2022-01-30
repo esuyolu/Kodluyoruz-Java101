@@ -103,3 +103,5 @@ Mükemmel Sayı Nedir ?
 Bir sayının kendisi hariç pozitif tam sayı çarpanları (kalansız bölen sayıların) toplamı kendisine eşit olan sayıya mükemmel sayı denir.
 
 🧡 Homework18 → Java ile basamak sayısının kullanıcıdan alınan ve döngüler kullanılarak, yıldızlar(*) ile ekrana ters üçgen çizen programı yazın.
+
+🧡 Homework19 → Java ile 1 - 100 arasındaki asal sayıları ekrana yazdıran programı yazınız.
