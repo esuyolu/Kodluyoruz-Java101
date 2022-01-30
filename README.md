@@ -95,3 +95,5 @@ N haneli bir sayının basamaklarının n’inci üstlerinin toplamı, sayının
 🧡 Homework14 → Java'da döngüler kullanarak yıldızlar ile elmas yapınız.
 
 🧡 Homework15 → Java ile iki sayının EBOB ve EKOK değerlerini "While Döngüsü" kullanarak yazınız.
+
+🧡 Homework16 → Java ile klavyeden girilen N tane sayma sayısından en büyük ve en küçük sayıları bulan ve bu sayıları ekrana yazan programı yazın.
