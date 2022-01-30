@@ -93,3 +93,5 @@ Genel bir kural olarak, artık yıllar 4 rakamının katı olan yıllardır.100'
 N haneli bir sayının basamaklarının n’inci üstlerinin toplamı, sayının kendisine eşitse, böyle sayılara Armstrong sayı denir.
 
 🧡 Homework14 → Java'da döngüler kullanarak yıldızlar ile elmas yapınız.
+
+🧡 Homework15 → Java ile iki sayının EBOB ve EKOK değerlerini "While Döngüsü" kullanarak yazınız.
