@@ -31,9 +31,13 @@ Taksimetre açılış ücreti 10 TL'dir.
 💙 Practice5 → Dairenin Alanını ve Çevresini Hesaplayan Program
 Java ile yarı çapını kullanıcıdan aldığınız dairenin alanını ve çevresini hesaplayan programı yazın.
 
-Ödev
-Yarıçapı r, merkez açısının ölçüsü 𝛼 olan daire diliminin alanı bulan programı yazınız.
-𝜋 sayısını = 3.14 alınız.
+💙 Practice6 → Bir Sayının "Palindrom Sayı" Olup Olmadığını Bulan Program
+Java ile bir sayının "Palindrom Sayı" olup olmadığını bulan bir program yazın.
+Palindrom Sayı Nedir ?
+Palindromik sayı, iki taraftan okunduğu zaman okunuş yönüyle aynı olan sayılardır.
+Örnek: 1, 4, 8, 99, 101, 363, 4004, 9889....
+
+
 
 🧡 Homework1 → Vücut Kitle İndeksi Hesaplama
 Java ile kullanıcıdan boy ve kilo değerlerini alıp bir değişkene atayın. Aşağıdaki formüle göre kullanıcının "Vücut Kitle İndeks" değerini hesaplayıp ekrana yazdırın.
