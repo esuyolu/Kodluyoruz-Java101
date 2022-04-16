@@ -116,3 +116,5 @@ Fibonacci serisi, her sayının kendinden önceki ile toplanması sonucu oluşan
 Fibonacci dizisi, 0'dan başlar ve sonsuza kadar. Her rakam, bir önceki rakamla toplanır. Elde edilen sonuç rakamın sağ tarafına yazılır.
 
 🧡 Homework21 → Java dilinde, taban ve üs değerleri kullanıcıdan alınan üs alma işlemini "Recursive" metot kullanarak yapan program.
+
+🧡 Homework22 → Java dilinde "Recursive" metot kullanarak, kullanıcıdan alınan sayının "Asal" sayı olup olmadığını bulan program.
