@@ -39,6 +39,10 @@ Palindromik sayı, iki taraftan okunduğu zaman okunuş yönüyle aynı olan say
 
 💙 Practice7 → Java ile kullanıcın seçtiği işlemleri yapan hesap makinesi.
 
+💙 Practice8 → Dizideki sayıların harmonik ortalamasını hesaplayan programı yazınız.
+Harmonik Ortalama formülü : n (eleman sayısı) / elemanların harmonik serisi
+Harmonik Seri Formülü : 1/1 + 1/2 + 1/3 + 1/4 + 1/5 + ... = Σ 1/n (n=0 -> n=∞)
+
 🧡 Homework1 → Vücut Kitle İndeksi Hesaplama
 Java ile kullanıcıdan boy ve kilo değerlerini alıp bir değişkene atayın. Aşağıdaki formüle göre kullanıcının "Vücut Kitle İndeks" değerini hesaplayıp ekrana yazdırın.
 
