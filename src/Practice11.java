@@ -8,7 +8,7 @@ public class Practice11 {
     public static void main(String[] args) {
         int[] list = {3, 24, 7, -6, 3, 4, 3, 2, 9, 10, 24, 21, 1, 33, 9, 1, 2, 4, -6, 8, 24};
 
-        System.out.println(repeatingEvenNumbers(list));
+        System.out.println(repeatingEvenNumbers(list)); 
     }
 
     public static Set<Integer> repeatingEvenNumbers(int[] numberArray) {
