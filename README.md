@@ -158,3 +158,5 @@ Eğer çalışan 19 yıldan fazla çalışıyorsa %15 zam yapılacaktır.
 toString() : Çalışana ait bilgileri ekrana bastıracaktır.
 
 🧡 Homework26 → Java dilinde, dizideki elemanları küçükten büyüğe sıralayan programı yazınız. Dizinin boyutunu ve dizinin elemanlarını kullanıcıdan alınız.
+
+🧡 Homework27 → Java dilinde, dizideki elemanların kaç kez tekrar edildiğini yani frekanslarını bulan programı yazınız.
