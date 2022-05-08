@@ -45,6 +45,8 @@ Harmonik Seri Formülü : 1/1 + 1/2 + 1/3 + 1/4 + 1/5 + ... = Σ 1/n (n=0 -> n=�
 
 💙 Practice9 → Dizideki elemanların girilen sayıdan küçük en yakın sayıyı ve en büyük en yakın sayıyı bulan programı yazınız.
 
+💙 Practice10 → Çok boyutlu diziler kullanılarak "yıldızlar" ile ekrana "B" harfi yazan programı yazınız.
+
 🧡 Homework1 → Vücut Kitle İndeksi Hesaplama
 Java ile kullanıcıdan boy ve kilo değerlerini alıp bir değişkene atayın. Aşağıdaki formüle göre kullanıcının "Vücut Kitle İndeks" değerini hesaplayıp ekrana yazdırın.
 
