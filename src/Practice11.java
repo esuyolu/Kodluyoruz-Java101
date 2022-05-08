@@ -18,5 +18,5 @@ public class Practice11 {
         }
 
         return list.stream().filter(i -> (Collections.frequency(list, i) > 1) && (i % 2 == 0)).collect(Collectors.toSet());
-    }
+    } 
 }
