@@ -156,3 +156,5 @@ Eğer çalışan 10 yıldan az bir süredir çalışıyorsa maaşına %5 zam yap
 Eğer çalışan 9 yıldan fazla ve 20 yıldan az çalışıyorsa maaşına %10 zam yapılacaktır.
 Eğer çalışan 19 yıldan fazla çalışıyorsa %15 zam yapılacaktır.
 toString() : Çalışana ait bilgileri ekrana bastıracaktır.
+
+🧡 Homework26 → Java dilinde, dizideki elemanları küçükten büyüğe sıralayan programı yazınız. Dizinin boyutunu ve dizinin elemanlarını kullanıcıdan alınız.
