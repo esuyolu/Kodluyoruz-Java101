@@ -49,6 +49,8 @@ Harmonik Seri Formülü : 1/1 + 1/2 + 1/3 + 1/4 + 1/5 + ... = Σ 1/n (n=0 -> n=�
 
 💙 Practice11 → Bir sayı dizisindeki tekrar eden çift sayıları belirten bir program yazınız.
 
+💙 Practice12 → Java dilinde programın 0-100 arasında rastgele seçtiği bir sayıyı kullanıcının tahmin etmesini istediğimiz bir "Sayı Tahmin Oyunu" yazınız.
+
 🧡 Homework1 → Vücut Kitle İndeksi Hesaplama
 Java ile kullanıcıdan boy ve kilo değerlerini alıp bir değişkene atayın. Aşağıdaki formüle göre kullanıcının "Vücut Kitle İndeks" değerini hesaplayıp ekrana yazdırın.
 
